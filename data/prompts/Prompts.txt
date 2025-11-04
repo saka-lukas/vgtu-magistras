@@ -1,0 +1,15 @@
+PRECONDITION:
+Upload BasicExampleClass.cs to LLM
+
+PROMPT OneShot
+In BasicExampleClass you can find my code for which unit tests have to be generated.
+In OneShotExample you can find one unit tests how tests should look like.
+
+Please generate me more unit tests.
+
+PROMPT 
+
+In BasicExampleClass you can find my code for which unit tests have to be generated.
+In TwoShotExample you can find one unit tests how tests should look like.
+
+Please generate me more unit tests.
